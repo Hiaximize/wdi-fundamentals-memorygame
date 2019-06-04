@@ -89,7 +89,15 @@ footer {
 
 }
 
-
+#resetButton {
+    margin-top: 20px;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 15px;
+    border: 2px solid #0d2c40; 
+    color: white;
+    background: #00a6b3;
+}
 
 .clearfix:after {
     visibility: hidden;
@@ -98,6 +106,17 @@ footer {
     clear: both;
     height: 0;
     font-size: 0;
+}
+
+#alert {
+    font-family: 'Lemonada', cursive;
+    font-size: 25px;
+}
+
+#score {
+    margin-left: 4px;
+    font-family: "Raleway", sans-serif;
+    font-size: 18px;
 }
 
 
