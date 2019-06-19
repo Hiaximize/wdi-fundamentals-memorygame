@@ -20,28 +20,7 @@ cards = [
                 {
                 rank: "king",
                 suit: "diamonds",
-                cardImage: "images/king-of-diamonds.png"},
-                
-                {
-                    rank: "queen",
-                    suit: "hearts",
-                    cardImage: "images/queen-of-hearts.png"},
-    
-                    {
-                    rank: "queen",
-                    suit: "diamonds",
-                    cardImage: "images/queen-of-diamonds.png"},
-    
-                    // Kind cards
-                    {
-                    rank: "king",
-                    suit: "hearts",
-                    cardImage: "images/king-of-hearts.png"},
-    
-                    {
-                    rank: "king",
-                    suit: "diamonds",
-                    cardImage: "images/king-of-diamonds.png"}
+                cardImage: "images/king-of-diamonds.png"}
          ];
 
 // Array that will hold the flipped cards.
